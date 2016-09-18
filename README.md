@@ -1,2 +1,2 @@
 # tetris
-classic computer game —— tetris，in MFC
+classic computer game -- tetris, in MFC
